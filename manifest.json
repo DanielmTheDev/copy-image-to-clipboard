@@ -1,0 +1,10 @@
+{
+  "id": "image-to-clipboard",
+  "name": "Image to Clipboard",
+  "version": "1.0.0",
+  "minAppVersion": "0.13.0",
+  "description": "Copies linked PNG images to the clipboard when the cursor is over the link.",
+  "author": "Daniel",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}

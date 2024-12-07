@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2015",
+    "lib": ["ES2015", "DOM"],
+    "outDir": "./",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node"
+  },
+  "include": ["*.ts"], // Add this line to include TypeScript files in the current directory
+  "exclude": ["node_modules"]
+}
